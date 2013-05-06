@@ -1,0 +1,46 @@
+/* */
+body{
+	background: #95a5a6;
+	margin:0;
+	padding:0;
+	font-family: "HelveticaNeue-Light", Helvetica, Arial, sans-serif;
+}
+#head{
+	background:#34495e;
+	color:white;
+	padding-left:20px;
+}
+h1, h2{
+	font-family: "HelveticaNeue-Light", Helvetica, Arial, sans-serif;
+	font-weight:100;
+	color:white;
+}
+#cookies{
+	background: #fff;
+	width:80%;
+	margin-left:3px;
+	border-radius: 5px;
+	border-color: rgb(170, 170, 170);
+	border-style: solid;
+	border-width: 2px;
+
+}
+.col3 {
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+-ms-border-radius: 3px;
+-o-border-radius: 3px;
+border-radius: 5px;
+border-color: rgb(170, 170, 170);
+border-style: solid;
+border-width: 2px;
+background: #fff;
+position: relative;
+width: 280px;
+margin:4px;
+text-align:center;
+}
+
+.masonImg{
+	max-width:280px;
+}
